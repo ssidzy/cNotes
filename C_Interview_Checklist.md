@@ -14,7 +14,7 @@
 ## 🧠 1. Core Basics
 
 ### Data Types & Variables
-- [ ] 🔴 `int`, `float`, `char`, `double` - sizes and ranges
+- [x] 🔴 `int`, `float`, `char`, `double` - sizes and ranges
 - [ ] 🔴 Variable declaration and initialization
 - [ ] 🟡 Constants (`const` and `#define`)
 - [ ] 🟡 Type casting (implicit and explicit)
