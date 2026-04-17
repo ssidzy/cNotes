@@ -3606,8 +3606,4 @@ flowchart TB
 | strchr(s, c) | Find character |
 | strstr(s1, s2) | Find substring |
 
----
 
-**Best of luck with your C programming interview! 🚀**
-
-*Remember: Understanding concepts is more important than memorizing syntax. Practice coding by hand to build muscle memory.*
